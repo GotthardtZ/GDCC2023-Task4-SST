@@ -1,0 +1,1 @@
+g++ -DNDEBUG -s -m64 -O3 -march=haswell -mtune=haswell sst.cpp -o sst
